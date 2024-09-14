@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **becoming better**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript & PHP**
 
 - 📫 How to reach me **hello@valentinm.dev**
 
