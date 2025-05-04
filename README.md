@@ -21,50 +21,50 @@ const whoAmI = {
 ```
 
 ### Skills
-
-<div>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
   <!-- Programming Languages -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br>HTML
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br>CSS
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br>JavaScript
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br>TypeScript
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br>Java
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br>Python
   </div>
   
   <!-- Frameworks -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br>React
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br>Node.js
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br>Express
   </div>
   
   <!-- Others -->
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br>MySQL
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br>PostgreSQL
   </div>
-  <div style="display: inline-block; margin: 10px; text-align: center;">
+  <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br>Figma
   </div>
 </div>
+
 
 
 <p align="center">
