@@ -21,7 +21,7 @@ const whoAmI = {
 ```
 
 ### Skills
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+<div style="display: flex; justify-content: center;">
   <!-- Programming Languages -->
   <div style="margin: 10px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br>HTML
