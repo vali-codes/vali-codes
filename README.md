@@ -20,10 +20,11 @@ const whoAmI = {
 };
 ```
 
-<!-- Programming Languages -->
-### Programming Languages
+<!-- All Icons Together -->
+### Skills
 
 <ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+  <!-- Programming Languages -->
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br><strong>HTML</strong>
   </li>
@@ -42,16 +43,11 @@ const whoAmI = {
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br><strong>Python</strong>
   </li>
+  
+  <!-- Frameworks -->
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /><br><strong>Swift</strong>
   </li>
-</ul>
-
----
-
-### Frameworks
-
-<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br><strong>React</strong>
   </li>
@@ -61,13 +57,8 @@ const whoAmI = {
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br><strong>Express</strong>
   </li>
-</ul>
-
----
-
-### Others
-
-<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+  
+  <!-- Others -->
   <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br><strong>MySQL</strong>
   </li>
