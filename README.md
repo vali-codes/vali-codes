@@ -25,14 +25,14 @@ const whoAmI = {
     Tools
 </h3>
 <div align="center" style="margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,discord,git" alt="Tools" style="display: inline-block; margin: 10px; height: 50px;">
+    <img src="https://skillicons.dev/icons?i=macos, intellij,vscode,git,github,docker," alt="Tools" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
 
 <h3 align="center" style="font-weight: bold">
     Languages
 </h3>
 <div align="center" style="margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" alt="Languages" style="display: inline-block; margin: 10px; height: 50px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,swift" alt="Languages" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
 
 <h3 align="center" style="font-weight: bold">
@@ -41,7 +41,8 @@ const whoAmI = {
 <div align="center" style="margin: 20px 0;">
     <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap" alt="Design" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
-
+</br>
+</br>
 
 <p align="center">
   <a href="mailto:hello@valentinm.dev"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white"/></a>
