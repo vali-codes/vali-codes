@@ -2,7 +2,7 @@
 <!-- Banner with aesthetic gradient -->
 <!-- Banner with aesthetic gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=bvalentin%20-%20CS%20Student%20and%20Developer&fontSize=35&fontAlignY=40&textColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=valentin%20-%20CS%20Student%20and%20Developer&fontSize=35&fontAlignY=40&textColor=ffffff" />
 </div>
 
 ---
@@ -24,26 +24,26 @@ const whoAmI = {
 <!-- Programming Languages -->
 ### Programming Languages
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <span style="text-align: center;">
+<div align="center">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br><strong>HTML</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br><strong>CSS</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br><strong>JavaScript</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br><strong>TypeScript</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br><strong>Java</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br><strong>Python</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /><br><strong>Swift</strong>
   </span>
 </div>
@@ -52,14 +52,14 @@ const whoAmI = {
 
 ### Frameworks
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <span style="text-align: center;">
+<div align="center">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br><strong>React</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br><strong>Node.js</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br><strong>Express</strong>
   </span>
 </div>
@@ -68,14 +68,14 @@ const whoAmI = {
 
 ### Others
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <span style="text-align: center;">
+<div align="center">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br><strong>MySQL</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br><strong>PostgreSQL</strong>
   </span>
-  <span style="text-align: center;">
+  <span style="display: inline-block; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br><strong>Figma</strong>
   </span>
 </div>
