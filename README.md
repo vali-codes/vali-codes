@@ -20,64 +20,63 @@ const whoAmI = {
 };
 ```
 
-<!-- All Icons Together -->
 ### Skills
 
-<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+<div>
   <!-- Programming Languages -->
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br><strong>HTML</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br><strong>CSS</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br><strong>JavaScript</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br><strong>TypeScript</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br><strong>Java</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br><strong>Python</strong>
-  </li>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br>HTML
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br>CSS
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br>JavaScript
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br>TypeScript
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br>Java
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br>Python
+  </div>
   
   <!-- Frameworks -->
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /><br><strong>Swift</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br><strong>React</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br><strong>Node.js</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br><strong>Express</strong>
-  </li>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br>React
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br>Node.js
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br>Express
+  </div>
   
   <!-- Others -->
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br><strong>MySQL</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br><strong>PostgreSQL</strong>
-  </li>
-  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br><strong>Figma</strong>
-  </li>
-</ul>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br>MySQL
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br>PostgreSQL
+  </div>
+  <div style="display: inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br>Figma
+  </div>
+</div>
+
+
+<p align="center">
+  <a href="mailto:hello@valentinm.dev"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=mail&logoColor=white"/></a>
+</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vali-codes&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&custom_title=My%20GitHub%20Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vali-codes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&fire=DD5E89" width="48%" />
 </p>
 
-<p align="center">
-  <a href="mailto:hello@valentinm.dev"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
 
 
 
