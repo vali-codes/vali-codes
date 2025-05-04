@@ -25,9 +25,8 @@ const whoAmI = {
     Tools
 </h3>
 <div align="center" style="margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=macos, intellij,vscode,git,github,docker," alt="Tools" style="display: inline-block; margin: 10px; height: 50px;">
+    <img src="https://skillicons.dev/icons?i=macos,idea,vscode,git,github,docker,postman" alt="Tools" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
-
 <h3 align="center" style="font-weight: bold">
     Languages
 </h3>
