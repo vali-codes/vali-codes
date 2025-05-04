@@ -21,30 +21,31 @@ const whoAmI = {
 ```
 
 <!-- Programming Languages -->
+<!-- Programming Languages -->
 ### Programming Languages
 
 <div align="center">
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" /><br>HTML
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br><strong>HTML</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" /><br>CSS
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br><strong>CSS</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" /><br>JavaScript
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br><strong>JavaScript</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" /><br>TypeScript
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br><strong>TypeScript</strong>
   </span>
   <br>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" /><br>Java
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br><strong>Java</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" /><br>Python
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br><strong>Python</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" /><br>Swift
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /><br><strong>Swift</strong>
   </span>
 </div>
 
@@ -53,14 +54,14 @@ const whoAmI = {
 ### Frameworks
 
 <div align="center">
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" /><br>React
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br><strong>React</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" /><br>Node.js
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br><strong>Node.js</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" /><br>Express
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br><strong>Express</strong>
   </span>
 </div>
 
@@ -69,14 +70,14 @@ const whoAmI = {
 ### Others
 
 <div align="center">
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /><br>MySQL
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br><strong>MySQL</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" /><br>PostgreSQL
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br><strong>PostgreSQL</strong>
   </span>
-  <span style="display:inline-block; margin: 10px; text-align: center;">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /><br>Figma
+  <span style="display:inline-block; margin: 15px; text-align: center; transition: transform 0.3s ease;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br><strong>Figma</strong>
   </span>
 </div>
 
