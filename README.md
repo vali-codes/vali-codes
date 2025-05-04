@@ -21,50 +21,50 @@ const whoAmI = {
 ```
 
 ### Skills
-<div style="display: flex; justify-content: center;">
+### Skills
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- Programming Languages -->
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br>HTML
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br>CSS
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br>JavaScript
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br>TypeScript
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br>Java
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br>Python
   </div>
   
   <!-- Frameworks -->
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br>React
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br>Node.js
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br>Express
   </div>
   
   <!-- Others -->
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br>MySQL
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br>PostgreSQL
   </div>
-  <div style="margin: 10px; text-align: center;">
+  <div style="text-align: center;">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br>Figma
   </div>
 </div>
-
 
 
 <p align="center">
