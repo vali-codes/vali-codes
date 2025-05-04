@@ -1,6 +1,8 @@
 <!-- Banner with aesthetic gradient -->
+<!-- Banner with aesthetic gradient -->
+<!-- Banner with aesthetic gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=Hey%20there,%20I'm%20Valentin!🚀&fontSize=35&fontAlignY=40&desc=Creative%20Technologist%20|%20Code%20Explorer%20|%20UI%2FUX%20Craftsman&descAlignY=60&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=200&section=header&text=bvalentin%20-%20CS%20Student%20and%20Developer&fontSize=35&fontAlignY=40&textColor=ffffff" />
 </div>
 
 ---
@@ -18,9 +20,72 @@ const whoAmI = {
 };
 ```
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,java,python,swift,mysql,postgres,figma" />
-</p>
+<!-- Programming Languages -->
+### Programming Languages
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" /><br>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" /><br>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" /><br>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" /><br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" /><br>Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" /><br>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" /><br>Swift
+    </td>
+  </tr>
+</table>
+
+---
+
+### Frameworks
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" /><br>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" /><br>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" /><br>Express
+    </td>
+  </tr>
+</table>
+
+---
+
+### Others
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /><br>MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" /><br>PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /><br>Figma
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vali-codes&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&custom_title=My%20GitHub%20Stats" width="48%" />
