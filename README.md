@@ -21,49 +21,25 @@ const whoAmI = {
 ```
 
 ### Skills
-### Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <!-- Programming Languages -->
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br>HTML
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br>CSS
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br>JavaScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br>TypeScript
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br>Java
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br>Python
-  </div>
-  
-  <!-- Frameworks -->
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br>React
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br>Node.js
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br>Express
-  </div>
-  
-  <!-- Others -->
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br>MySQL
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br>PostgreSQL
-  </div>
-  <div style="text-align: center;">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br>Figma
-  </div>
+<h3 align="center" style="font-weight: bold">
+    Tools
+</h3>
+<div align="center" style="margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,discord,git" alt="Tools" style="display: inline-block; margin: 10px; height: 50px;">
+</div>
+
+<h3 align="center" style="font-weight: bold">
+    Languages
+</h3>
+<div align="center" style="margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs" alt="Languages" style="display: inline-block; margin: 10px; height: 50px;">
+</div>
+
+<h3 align="center" style="font-weight: bold">
+    Design
+</h3>
+<div align="center" style="margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=figma,tailwind,bootstrap" alt="Design" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
 
 
