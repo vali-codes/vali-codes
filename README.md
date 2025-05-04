@@ -23,26 +23,26 @@ const whoAmI = {
 <!-- Programming Languages -->
 ### Programming Languages
 
-<ul style="list-style-type: none; display: flex; justify-content: center; padding: 0;">
-  <li style="margin: 15px; text-align: center;">
+<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="60" /><br><strong>HTML</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="60" /><br><strong>CSS</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="60" /><br><strong>JavaScript</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="60" /><br><strong>TypeScript</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" width="60" /><br><strong>Java</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" width="60" /><br><strong>Python</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="60" /><br><strong>Swift</strong>
   </li>
 </ul>
@@ -51,14 +51,14 @@ const whoAmI = {
 
 ### Frameworks
 
-<ul style="list-style-type: none; display: flex; justify-content: center; padding: 0;">
-  <li style="margin: 15px; text-align: center;">
+<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=react" alt="React" width="60" /><br><strong>React</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="60" /><br><strong>Node.js</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=express" alt="Express" width="60" /><br><strong>Express</strong>
   </li>
 </ul>
@@ -67,14 +67,14 @@ const whoAmI = {
 
 ### Others
 
-<ul style="list-style-type: none; display: flex; justify-content: center; padding: 0;">
-  <li style="margin: 15px; text-align: center;">
+<ul style="list-style-type: none; display: flex; flex-wrap: wrap; padding: 0; justify-content: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" /><br><strong>MySQL</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="60" /><br><strong>PostgreSQL</strong>
   </li>
-  <li style="margin: 15px; text-align: center;">
+  <li style="flex: 1 0 16%; margin: 15px; text-align: center;">
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="60" /><br><strong>Figma</strong>
   </li>
 </ul>
