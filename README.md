@@ -23,69 +23,63 @@ const whoAmI = {
 <!-- Programming Languages -->
 ### Programming Languages
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" /><br>HTML
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" /><br>CSS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" /><br>JavaScript
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" /><br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" /><br>Java
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" /><br>Python
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" /><br>Swift
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" /><br>HTML
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" /><br>CSS
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="50" /><br>JavaScript
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" /><br>TypeScript
+  </span>
+  <br>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" /><br>Java
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" /><br>Python
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="50" /><br>Swift
+  </span>
+</div>
 
 ---
 
 ### Frameworks
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" /><br>React
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" /><br>Node.js
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" /><br>Express
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" /><br>React
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" /><br>Node.js
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=express" alt="Express" width="50" /><br>Express
+  </span>
+</div>
 
 ---
 
 ### Others
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /><br>MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" /><br>PostgreSQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /><br>Figma
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" /><br>MySQL
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" /><br>PostgreSQL
+  </span>
+  <span style="display:inline-block; margin: 10px; text-align: center;">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="50" /><br>Figma
+  </span>
+</div>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vali-codes&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&custom_title=My%20GitHub%20Stats" width="48%" />
