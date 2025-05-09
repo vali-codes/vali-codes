@@ -31,7 +31,7 @@ const whoAmI = {
     Languages & Frameworks
 </h3>
 <div align="center" style="margin: 20px 0;">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,swift" alt="Languages" style="display: inline-block; margin: 10px; height: 50px;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,swift,python,react,nodejs,express," alt="Languages" style="display: inline-block; margin: 10px; height: 50px;">
 </div>
 
 <h3 align="center" style="font-weight: bold">
