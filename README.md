@@ -6,10 +6,18 @@
 </div>
 ---
 
+### 🧠 Who am I?
 
-<div align="center">
-  <img src="https://cdn.valentinm.dev/RyZZq3CXz3q5wHfK56Sn" />
-</div>
+```ts
+const whoAmI = {
+  name: "Valentin",
+  title: "Full-Stack Engineer",
+  code: ["React", "JavaScript", "TypeScript", "Swift", "Python", "Java", "Node.js"],
+  design: ["Figma", "UX Thinking"],
+  databases: ["MySQL", "PostgreSQL"],
+  tools: ["Git", "VSCode", "macOS", "Postman"]
+};
+```
 
 ### Skills
 <h3 align="center" style="font-weight: bold">
@@ -43,9 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vali-codes&show_icons=true&count_private=true&hide=prs&theme=tokyonight&border_radius=10&custom_title=My%20GitHub%20Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vali-codes&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&border=DDDDDD&fire=DD5E89" width="48%" />
 </p>
-
-
-
 
 
 
