@@ -2,7 +2,7 @@
 <!-- Banner with aesthetic gradient -->
 <!-- Banner with aesthetic gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=valentin%20-%20CS%20Student%20and%20Developer&fontSize=35&fontAlignY=40&textColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&section=header&text=valentin%20-%20CS%20Student%20and%20Developer&fontSize=35&fontAlignY=40&textColor=ffffff&color=000000&useBlur=true" />
 </div>
 
 ---
