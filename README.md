@@ -6,18 +6,10 @@
 </div>
 ---
 
-### 🧠 Who am I?
 
-```ts
-const whoAmI = {
-  name: "Valentin",
-  title: "Full-Stack Engineer",
-  code: ["React", "JavaScript", "TypeScript", "Swift", "Python", "Java", "Node.js"],
-  design: ["Figma", "UX Thinking"],
-  databases: ["MySQL", "PostgreSQL"],
-  tools: ["Git", "VSCode", "macOS", "Postman"]
-};
-```
+<div align="center">
+  <img src="https://cdn.valentinm.dev/RyZZq3CXz3q5wHfK56Sn" />
+</div>
 
 ### Skills
 <h3 align="center" style="font-weight: bold">
