@@ -64,12 +64,7 @@ Studying the fundamentals: OS scheduling, networking, data structures.
 
 ---
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vali-codes&show_icons=true&count_private=true&hide=prs,issues&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&icon_color=06b6d4&border_color=1e293b&border_radius=8&custom_title=GitHub" width="47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vali-codes&layout=compact&bg_color=0f172a&title_color=3b82f6&text_color=94a3b8&border_color=1e293b&border_radius=8&hide=html,css" width="47%" />
-
-</div>
 
 ---
 
