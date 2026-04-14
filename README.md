@@ -13,7 +13,6 @@
 <br />
 
 > Curious by nature, precise by practice.
-> I care more about understanding the problem than shipping a quick fix.
 
 <br />
 
@@ -54,13 +53,6 @@
 ![Figma](https://img.shields.io/badge/Figma-0f172a?style=flat-square&logo=figma&logoColor=f24e1e)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-0f172a?style=flat-square&logo=radixui&logoColor=ffffff)
 ![VSCode](https://img.shields.io/badge/VSCode-0f172a?style=flat-square&logo=visualstudiocode&logoColor=007acc)
-
----
-
-### ◈ Currently
-
-Building **Webformer** — a production SaaS product.
-Studying the fundamentals: OS scheduling, networking, data structures.
 
 ---
 
