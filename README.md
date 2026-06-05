@@ -20,7 +20,7 @@
 
 ### ◈ Featured
 
-**[Webformer](https://github.com/vali-codes)** &nbsp;—&nbsp; Contact form infrastructure with real-time notifications, centralized dashboard, and AI spam protection.
+**[Minduly](https://github.com/vali-codes)** &nbsp;—&nbsp; A streamlined, modern productivity app for daily workflow.
 `React` `TypeScript` `Vite` `Tailwind` `Framer Motion`
 
 ---
